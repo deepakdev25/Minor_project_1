@@ -77,8 +77,4 @@ The main goal of GroupDNA is to turn an ordinary WhatsApp chat into a structured
 
 ## Project Outcome
 
-GroupDNA demonstrates how fundamental programming concepts such as file handling, loops, lists, dictionaries, functions, string processing, datetime, and NumPy can be combined to build a practical data-analysis project from a real-world text dataset.
-
-## Tagline
-
-From everyday conversations to meaningful group insights. 🔗
+GroupDNA demonstrates how fundamental programming concepts such as file handling, loops, lists, dictionaries, functions, string processing, datetime, and NumPy can be combined to build a practical data-analysis project from a real-world text dataset.🔗
